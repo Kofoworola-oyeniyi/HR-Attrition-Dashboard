@@ -3,7 +3,7 @@
 Employee retention remains a major challenge for many organisations. High attrition rates not only increase recruitment and training costs but also disrupt work flow and team stability. In this project, I analysed the effect of different parameters like home distance, age, gender, promotion history, job role, performance rating, and educational background on the attrition rate of staff. 
 
 ### Data Sources
-The primary dataset used for this analysis is the "HR_dataset file" containing  2,925 employee records with variables on demographics, job roles, performance, compensation, and work conditions, used to analyze employee attrition and retention.
+The primary dataset used for this analysis is the "HR_Dataset.xlx" file, containing  2,925 employee records with variables on demographics, job roles, performance, compensation, and work conditions, used to analyze employee attrition and retention.
 
 ### Tools
 - **Excel** - Data Cleaning and Visualisation
